@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enamichi
-- 👀 I’m interested in ...NFT, BCG, Polkadot
+- 👀 I’m interested in ...NFT, BCG, Polkadot, Astar Network
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... AstarNetwork projects
 - 📫 How to reach me ... DM on Twitter(@Enamichi1)  
